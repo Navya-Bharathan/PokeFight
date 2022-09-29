@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js",
-    "dev":"nodemon index.js"
-    },
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Navya-Bharathan/PokeFight.git"
@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Navya-Bharathan/PokeFight#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "express": "^4.18.1",
     "nodemon": "^2.0.20"
   }
 }
